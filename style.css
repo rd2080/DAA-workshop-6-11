@@ -1,0 +1,18 @@
+h1
+{
+    font-size: 60px;
+    color: bisque;
+    background-color: black;
+    border: 6px dashed greenyellow;
+    border-radius: 3px;
+    padding: 100px;
+    margin-bottom: 200px;
+    width: 50%;
+}
+h3
+{
+    font-size: 80px;
+    color: aqua;
+    background-color: coral;
+    border: 7px black;
+}
